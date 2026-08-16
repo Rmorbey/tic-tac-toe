@@ -26,6 +26,10 @@ To run and play the game:
 
 It will now display an empty board and will prompt Player X to input their desired grid space between 0 and 8.
 
+As shown below.
+
+<img width="263" height="119" alt="Screenshot 2026-08-16 at 20 51 59" src="https://github.com/user-attachments/assets/1813350d-89d7-45e8-9980-eaf0cd766e49" />
+
 ### Gameplay
 
 Player X and Player O will take turns inputting their desired locations until either player has won, or the game ends in a draw.
