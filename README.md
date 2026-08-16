@@ -15,7 +15,7 @@ To install the game please follow these instructions:
   - Clone this repository by clicking the green code button on the top right hand side.
   - Copy the SSH link and go to your terminal.
   - Type ``` git clone ``` and paste your SSH link.
-  - ```cd tic-tac-toe``` into the folder that was created.
+  - ```cd tic-tac-toe``` to move into the folder that was created.
   - Type ``` npm i ``` to install the dependencies.
 
 ### Usage
